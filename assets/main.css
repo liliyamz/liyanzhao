@@ -1,3 +1,17 @@
 body{
-	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'big caslon', serif;
+	font-size: 40pt;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.headr{
+	position: fixed;
+	right:20px;
+}
+
+img{
+	display: block;
+	margin: auto;
+	margin-top: 30px;
 }
