@@ -11,6 +11,11 @@ img{
 	margin-top: 30px;
 }
 
+br {
+   display: block;
+   margin: 10px 0;
+}
+
 .headr{
 	position: fixed;
 	right:20px;
