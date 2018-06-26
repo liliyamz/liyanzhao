@@ -16,6 +16,11 @@ body {
 	mix-blend-mode: multiply;
 }
 
+@media only screen and (max-width: 600px) {
+    #info {
+        font-size: 32px; 
+    }
+
 #name {
 	color: black;
 }
