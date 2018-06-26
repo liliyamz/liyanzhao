@@ -15,9 +15,28 @@ body {
 	/*z-index: 10000000;*/
 }
 
+.short {
+	position: absolute; 
+	color: black; 
+	margin: 70px;
+	width: 500px; 
+	font-size: 30px; 
+	line-height: 1.5; 
+	font-family: arial;
+	display: none;
+}
+
 @media only screen and (max-width: 812px) {
     #info {
         font-size: 32px;
+    }
+
+    .short {
+    	display: inline-block;
+    }
+
+    .full {
+    	display: none;
     }
 }
 
