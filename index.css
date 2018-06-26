@@ -16,12 +16,12 @@ body {
 }
 
 .short {
-	background-color: cyan;
+	/*background-color: cyan;*/
 	position: absolute; 
 	color: black; 
 	margin: 70px;
-	width: 502px; 
-	font-size: 30px; 
+	width: 360px; 
+	font-size: 20px; 
 	line-height: 1.5; 
 	font-family: arial;
 	letter-spacing: 1.4px;
@@ -29,9 +29,6 @@ body {
 }
 
 @media only screen and (max-width: 812px) {
-    #info {
-        font-size: 32px;
-    }
 
     .short {
     	display: inline-block;
