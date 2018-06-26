@@ -16,6 +16,7 @@ body {
 }
 
 .short {
+	background-color: yellow;
 	position: absolute; 
 	color: black; 
 	margin: 70px;
