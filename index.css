@@ -19,7 +19,8 @@ body {
 	/*background-color: cyan;*/
 	position: absolute; 
 	color: black; 
-	margin: 40px;
+	margin-top: 40px;
+	margin-left: 30px;
 	width: 280px; 
 	font-size: 14px; 
 	line-height: 1.5; 
