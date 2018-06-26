@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	scroll-behavior: none;
+}
+
+#info {
+	position: absolute; 
+	color: black; 
+	margin: 70px;
+	width: 500px; 
+	font-size: 30px; 
+	line-height: 1.5; 
+	font-family: arial;
+	letter-spacing: -3.5px;
+	/*z-index: 10000000;*/
+	mix-blend-mode: multiply;
+}
+
+#name {
+	color: black;
+}
+
+#email {
+}
+
+a {
+	color: black;
+	display: inline; 
+	margin-left: 0px; 
+	text-decoration: underline;
+}
+
+canvas {
+	height: 100vh;
+	width: 100vw;
+	/*background-color: yellow;*/
+	mix-blend-mode: multiply;
+	position: absolute;
+	right: 0;
+}
