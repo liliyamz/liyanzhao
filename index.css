@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	scroll-behavior: none;
+	background-color: none;
 }
 
 #info {
@@ -13,14 +13,13 @@ body {
 	font-family: arial;
 	letter-spacing: -3.5px;
 	/*z-index: 10000000;*/
-	mix-blend-mode: multiply;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 812px) {
     #info {
-        font-size: 32px; 
-        background-color: yellow;
+        font-size: 32px;
     }
+}
 
 #name {
 	color: black;
